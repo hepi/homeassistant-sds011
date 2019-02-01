@@ -13,7 +13,7 @@ from homeassistant.helpers.entity import Entity
 import homeassistant.helpers.config_validation as cv
 from homeassistant.components.sensor import PLATFORM_SCHEMA
 
-REQUIREMENTS = ["https://github.com/mrk-its/py-sds011/archive/v0.9.zip#py-sds011==0.9"]
+REQUIREMENTS = ["https://github.com/hepi/py-sds011/archive/v0.9.zip#py-sds011==0.9"]
 
 _LOGGER = logging.getLogger(__name__)
 
